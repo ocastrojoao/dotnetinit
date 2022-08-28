@@ -1,0 +1,15 @@
+C:\Users\Castro\Projetos\dotnetinit\bin\Debug\net6.0\dotnetinit.exe
+C:\Users\Castro\Projetos\dotnetinit\bin\Debug\net6.0\dotnetinit.deps.json
+C:\Users\Castro\Projetos\dotnetinit\bin\Debug\net6.0\dotnetinit.runtimeconfig.json
+C:\Users\Castro\Projetos\dotnetinit\bin\Debug\net6.0\dotnetinit.dll
+C:\Users\Castro\Projetos\dotnetinit\bin\Debug\net6.0\dotnetinit.pdb
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.csproj.AssemblyReference.cache
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.AssemblyInfoInputs.cache
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.AssemblyInfo.cs
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.csproj.CoreCompileInputs.cache
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.dll
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\refint\dotnetinit.dll
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.pdb
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\dotnetinit.genruntimeconfig.cache
+C:\Users\Castro\Projetos\dotnetinit\obj\Debug\net6.0\ref\dotnetinit.dll
